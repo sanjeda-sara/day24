@@ -1,0 +1,45 @@
+() -- method
+[] -- array
+{} -- objectS -- curly er bhitor ja thake shob object format e thake
+tmp_name --> virtual directory create kore
+
+mod- google-- 'a' je likha ache tarpor theke add hobe
+
+image path eeds to be stored
+.
+.
+.
+public function __construct($_file=null, $post=null)
+ //this file is parameter, local
+
+Class FileUpload{protected $file; -->//this file is a global property--
+so even tho name same, they're not the same
+.
+.
+.
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
